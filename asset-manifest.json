@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My-English-Notes/static/css/main.1abc5b6b.css",
+    "main.js": "/My-English-Notes/static/js/main.d3768717.js",
+    "index.html": "/My-English-Notes/index.html",
+    "main.1abc5b6b.css.map": "/My-English-Notes/static/css/main.1abc5b6b.css.map",
+    "main.d3768717.js.map": "/My-English-Notes/static/js/main.d3768717.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1abc5b6b.css",
+    "static/js/main.d3768717.js"
+  ]
+}
